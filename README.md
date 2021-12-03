@@ -6,7 +6,7 @@
 ![SQL](https://img.shields.io/badge/SQL-Intermediate-yellow)
 ![R](https://img.shields.io/badge/R-Beginner-brightgreen)
 
-- 💻 Majoring in **Computer Science** and Minoring in **Statistics** at [Georgetown University](https://www.georgetown.edu/)(Class of '23)
+- 💻 Majoring in **Computer Science** and Minoring in **Statistics** at [Georgetown University](https://www.georgetown.edu/) (Class of '23)
 - 🎉 Passions for video games 🎮, lifting 💪, and cooking 🍖
 - ⚙️ Mastering: `.java`,`.cpp`,`.py`,`.sql`
 - 🌱 Currently Learning: `.R`
