@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hey, I'm Eric Lim 👋 
 
-<!--
-**5cminsuhlim/5cminsuhlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Java](https://img.shields.io/badge/Java-Intermediate-yellow)
+![C++](https://img.shields.io/badge/C%2B%2B-Intermediate-yellow)
+![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-yellow)
+![R](https://img.shields.io/badge/R-Beginner-brightgreen)
 
-Here are some ideas to get you started:
+- 💻 Majoring in **Computer Science** and Minoring in **Statistics** at [Georgetown University](https://www.georgetown.edu/)(Class of '23)
+- 🎉 Passions for video games 🎮, lifting 💪, and cooking 🍖
+- ⚙️ Mastering: `.java`,`.cpp`,`.py`,`.sql`
+- 🌱 Currently Learning: `.R`
+- 👓 Planning to Learn: `.html`,`.js`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📬 Contacts
+- 💻 GitHub: [github.com/5cminsuhlim][github]
+- 🤝 Handshake: [https://app.joinhandshake.com/users/21150727][handshake]
+- 📧 Personal E-mail: 5cminsuhlim@gmail.com
+- 📧 School E-mail: ml1859@georgetown.edu
+
+
+### 📃 Looking for my Resume? E-Mail me!
