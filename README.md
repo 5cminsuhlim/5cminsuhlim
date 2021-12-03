@@ -14,8 +14,8 @@
 
 
 ### 📬 Contacts
-- 💻 GitHub: [https://github.com/5cminsuhlim]
-- 🤝 Handshake: [https://app.joinhandshake.com/users/21150727]
+- 💻 [GitHub](https://github.com/5cminsuhlim)
+- 🤝 [Handshake](https://app.joinhandshake.com/users/21150727)
 - 📧 Personal E-mail: 5cminsuhlim@gmail.com
 - 📧 School E-mail: ml1859@georgetown.edu
 
