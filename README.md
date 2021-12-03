@@ -2,8 +2,8 @@
 
 ![Java](https://img.shields.io/badge/Java-Intermediate-yellow)
 ![C++](https://img.shields.io/badge/C%2B%2B-Intermediate-yellow)
-![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
-![SQL](https://img.shields.io/badge/SQL-Intermediate-yellow)
+![Python](https://img.shields.io/badge/Python-Beginner-brightgreen)
+![SQL](https://img.shields.io/badge/SQL-Beginner-brightgreen)
 ![R](https://img.shields.io/badge/R-Beginner-brightgreen)
 
 - 💻 Majoring in **Computer Science** and Minoring in **Statistics** at [Georgetown University](https://www.georgetown.edu/) (Class of '23)
