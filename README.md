@@ -20,4 +20,4 @@
 - 📧 School E-mail: ml1859@georgetown.edu
 
 
-### 📃 Looking for my Resume? E-Mail me!
+### 📃 Looking for My Resume? E-Mail Me or Checkout My Handshake Profile!
