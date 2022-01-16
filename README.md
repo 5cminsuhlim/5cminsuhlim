@@ -16,8 +16,9 @@
 ### 📬 Contacts
 - 💻 [GitHub](https://github.com/5cminsuhlim)
 - 🤝 [Handshake](https://app.joinhandshake.com/users/21150727)
+- 💼 [LinkedIn](https://www.linkedin.com/in/eric-lim-5613ba22a/)
 - 📧 Personal E-mail: 5cminsuhlim@gmail.com
 - 📧 School E-mail: ml1859@georgetown.edu
 
 
-### 📃 Looking for My Resume? E-Mail Me or Checkout My Handshake Profile!
+### 📃 Looking for My Resume? E-Mail Me or Checkout My Handshake / LinkedIn Profile!
