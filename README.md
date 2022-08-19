@@ -8,7 +8,7 @@
 ![JS](https://img.shields.io/badge/JS-Beginner-brightgreen)
 ![HTML](https://img.shields.io/badge/HTML-Beginner-brightgreen)
 
-- 💻 Majoring in **Computer Science** and Minoring in **Statistics** at [Georgetown University](https://www.georgetown.edu/) (Class of '23)
+- 💻 BS in **Computer Science**, Minoring in **Statistics**, MS in **Data Science and Analytics** at [Georgetown University](https://www.georgetown.edu/) (Class of '24)
 - 🎉 Passions for lifting 💪, guitar 🎸, and cooking 🍖
 - ⚙️ Mastering: `.java`,`.cpp`,`.py`,`.sql`, `.R`
 - 🌱 Currently Learning: `.html`, `.js`
