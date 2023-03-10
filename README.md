@@ -1,10 +1,10 @@
 # Hey, I'm Eric Lim 👋 
 
-![Java](https://img.shields.io/badge/Java-Intermediate-yellow)
-![C++](https://img.shields.io/badge/C%2B%2B-Intermediate-yellow)
-![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
-![R](https://img.shields.io/badge/R-Intermediate-yellow)
-![HTML](https://img.shields.io/badge/HTML-Intermediate-yellow)
+![Java](https://img.shields.io/badge/Java-Advanced-red)
+![C++](https://img.shields.io/badge/C%2B%2B-Advanced-red)
+![Python](https://img.shields.io/badge/Python-Advanced-red)
+![R](https://img.shields.io/badge/R-Advanced-red)
+![HTML](https://img.shields.io/badge/HTML-Advanced-red)
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-yellow)
 ![SQL](https://img.shields.io/badge/SQL-Beginner-brightgreen)
 ![JS](https://img.shields.io/badge/JS-Beginner-brightgreen)
