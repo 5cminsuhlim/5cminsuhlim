@@ -11,9 +11,9 @@
 
 - 💻 BS in **Computer Science**, Minoring in **Statistics**, MS in **Data Science and Analytics** at [Georgetown University](https://www.georgetown.edu/) (Class of '24)
 - 🎉 Passions for lifting 💪, guitar 🎸, and cooking 🍖
-- ⚙️ Mastering: `.java`,`.cpp`,`.py`,`.sql`, `.R`, `.html`, `.css`
-- 🌱 Currently Learning: `.js`
-- 👓 Planning to Learn:
+- ⚙️ Mastering: `.java`,`.cpp`,`.py`,`.sql`, `.R`, `.html`, `.css`, `.js`
+- 🌱 Currently Learning: `.sol`
+- 👓 Planning to Learn: `.go`, `.rs`
 
 
 ### 📬 Contacts
