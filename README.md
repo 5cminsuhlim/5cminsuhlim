@@ -18,7 +18,7 @@
 
 ### 📬 Contacts
 - 💻 [GitHub](https://github.com/5cminsuhlim)
-- 💼 [LinkedIn](https://www.linkedin.com/in/eric-lim-5613ba22a/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/eric-m-lim/)
 - 📧 Personal E-mail: 5cminsuhlim@gmail.com
 - 📧 School E-mail: ml1859@georgetown.edu
 
