@@ -4,9 +4,9 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-Advanced-red)
 ![Python](https://img.shields.io/badge/Python-Advanced-red)
 ![R](https://img.shields.io/badge/R-Advanced-red)
+![SQL](https://img.shields.io/badge/SQL-Advanced-red)
 ![HTML](https://img.shields.io/badge/HTML-Advanced-red)
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-yellow)
-![SQL](https://img.shields.io/badge/SQL-Beginner-brightgreen)
 ![JS](https://img.shields.io/badge/JS-Beginner-brightgreen)
 
 - 💻 BS in **Computer Science**, Minoring in **Statistics**, MS in **Data Science and Analytics** at [Georgetown University](https://www.georgetown.edu/) (Class of '24)
