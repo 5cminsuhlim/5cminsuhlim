@@ -11,16 +11,14 @@
 
 - 💻 BS in **Computer Science**, Minoring in **Statistics**, MS in **Data Science and Analytics** at [Georgetown University](https://www.georgetown.edu/) (Class of '24)
 - 🎉 Passions for lifting 💪, guitar 🎸, and cooking 🍖
-- ⚙️ Mastering: `.java`,`.cpp`,`.py`,`.sql`, `.R`, `.html`, `.css`, `.js`
-- 🌱 Currently Learning: `.sol`
+- ⚙️ Mastering: `.java`,`.cpp`,`.py`,`.sql`, `.R`, `.html`, `.css`, `.js`, `.sol`
+- 🌱 Currently Learning:
 - 👓 Planning to Learn: `.go`, `.rs`
 
 
 ### 📬 Contacts
+- 📃 [Personal Website](https://5cminsuhlim.github.io/)
 - 💻 [GitHub](https://github.com/5cminsuhlim)
 - 💼 [LinkedIn](https://www.linkedin.com/in/eric-m-lim/)
 - 📧 Personal E-mail: 5cminsuhlim@gmail.com
 - 📧 School E-mail: ml1859@georgetown.edu
-
-
-### 📃 Looking for My Resume? E-Mail Me or Contact Me via LinkedIn!
