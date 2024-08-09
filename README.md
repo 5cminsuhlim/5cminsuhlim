@@ -5,14 +5,12 @@
 ![Python](https://img.shields.io/badge/Python-Advanced-red)
 ![R](https://img.shields.io/badge/R-Advanced-red)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-red)
-![HTML](https://img.shields.io/badge/HTML-Advanced-red)
-![CSS](https://img.shields.io/badge/CSS-Intermediate-yellow)
 ![JS](https://img.shields.io/badge/JS-Beginner-brightgreen)
 
 - 💻 BS in **Computer Science and Statistics** (Class of '23), MS in **Data Science and Analytics** (Class of '24) at [Georgetown University](https://www.georgetown.edu/)
 - 🎉 Passions for lifting 💪, guitar 🎸, and cooking 🍖
-- ⚙️ Mastering: `.java`,`.cpp`,`.py`,`.sql`, `.R`, `.html`, `.css`, `.js`, `.sol`
-- 🌱 Currently Learning:
+- ⚙️ Mastering: `.java`,`.cpp`,`.py`,`.sql`, `.R`
+- 🌱 Currently Learning: `.js`, `.sol`
 - 👓 Planning to Learn: `.go`, `.rs`
 
 
